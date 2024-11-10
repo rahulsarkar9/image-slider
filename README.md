@@ -33,3 +33,6 @@
 ![Screenshot (299)](https://github.com/user-attachments/assets/892ce054-ef5e-4fe8-bee1-66fca0c80f56)
 ![Screenshot (300)](https://github.com/user-attachments/assets/5c71d033-089b-440f-b573-7843d7547151)
 ![Screenshot (301)](https://github.com/user-attachments/assets/943720f8-b910-4922-b53f-197c9cff7506)
+
+
+https://rahulsarkar9.github.io/image-slider/
